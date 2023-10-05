@@ -1,4 +1,4 @@
-# mssql-server-clustered-nonclustered-unique-index-creating-and-using
+## mssql-server-clustered-nonclustered-unique-index-creating-and-using
 ```
 MSSQL Server üzerinde verileri çok performanslı bir şekilde kullanabilmek adına index'ler üzerinde çalışmalar yapıyorum.
 Clustered, nonclustered ve unique index yapılarını öğrendim.
